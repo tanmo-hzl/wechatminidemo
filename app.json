@@ -1,0 +1,16 @@
+{
+  "__comment1":"pages字段 —— 用于描述当前小程序所有页面路径，这是为了让微信客户端知道当前你的小程序页面定义在哪个目录。",
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "__comment2":"window字段 —— 定义小程序所有页面的顶部背景颜色，文字颜色定义等。",
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
